@@ -42,9 +42,9 @@ export function data(json, category, accordance) {
 function App() {
 	return (
 		<Routes>
-			<Route path='/' element={<>тут нет ничо</>} />
-			<Route path='/Arthur' element={<Arthur />} />
-			<Route path='/Milana' element={<Milana />} />
+			<Route path='/AI' element={<>тут нет ничо</>} />
+			<Route path='/AI/Arthur' element={<Arthur />} />
+			<Route path='/AI/Milana' element={<Milana />} />
 		</Routes>
 	)
 }
