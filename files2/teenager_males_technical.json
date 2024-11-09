@@ -1,0 +1,98 @@
+[
+    {
+        "id": "89de3422-45d6-4c93-b399-c9861d3914f7",
+        "has_photo": 1,
+        "home_town": 1,
+        "political": 0,
+        "people_main": 0,
+        "life_main": 0,
+        "smoking": 0,
+        "alcohol": 0,
+        "quotes": 0,
+        "inspired_by": 0
+    },
+    {
+        "id": "9e70f545-36a4-4dda-bf6c-9aa9380d4005",
+        "has_photo": 1,
+        "home_town": 0,
+        "political": 0,
+        "people_main": 0,
+        "life_main": 0,
+        "smoking": 0,
+        "alcohol": 0,
+        "quotes": 0,
+        "inspired_by": 0
+    },
+    {
+        "id": "d93c2c65-87d1-43f4-8abd-128a35f80e59",
+        "has_photo": 1,
+        "home_town": 0,
+        "political": 0,
+        "people_main": 6,
+        "life_main": 1,
+        "smoking": 2,
+        "alcohol": 0,
+        "quotes": 0,
+        "inspired_by": 0
+    },
+    {
+        "id": "97998ef6-ff48-4535-84a3-38a2e9a05fbb",
+        "has_photo": 0,
+        "home_town": 0,
+        "political": 0,
+        "people_main": 0,
+        "life_main": 0,
+        "smoking": 0,
+        "alcohol": 0,
+        "quotes": 0,
+        "inspired_by": 0
+    },
+    {
+        "id": "f9da1efd-17ef-4fd6-84ef-272e657f273b",
+        "has_photo": 1,
+        "home_town": 1,
+        "political": 0,
+        "people_main": 0,
+        "life_main": 0,
+        "smoking": 0,
+        "alcohol": 0,
+        "quotes": 0,
+        "inspired_by": 0
+    },
+    {
+        "id": "a2d00788-ad0b-4c89-b415-74257c15e20e",
+        "has_photo": 1,
+        "home_town": 0,
+        "political": 0,
+        "people_main": 0,
+        "life_main": 0,
+        "smoking": 0,
+        "alcohol": 0,
+        "quotes": 0,
+        "inspired_by": 0
+    },
+    {
+        "id": "5fc738d1-a3ad-4f59-abae-96c53e460428",
+        "has_photo": 0,
+        "home_town": 0,
+        "political": 0,
+        "people_main": 0,
+        "life_main": 0,
+        "smoking": 0,
+        "alcohol": 0,
+        "quotes": 0,
+        "inspired_by": 0
+    },
+    {
+        "id": "47cc3e24-c392-43f6-b2ed-f7afd52791e5",
+        "has_photo": 1,
+        "home_town": 0,
+        "political": 0,
+        "people_main": 0,
+        "life_main": 0,
+        "smoking": 0,
+        "alcohol": 0,
+        "quotes": 0,
+        "inspired_by": 0
+    }
+]

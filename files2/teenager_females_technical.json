@@ -1,0 +1,74 @@
+[
+    {
+        "id": "00e068fe-dedc-447d-b690-0732aff1791c",
+        "has_photo": 1,
+        "home_town": 0,
+        "political": 0,
+        "people_main": 0,
+        "life_main": 0,
+        "smoking": 0,
+        "alcohol": 0,
+        "quotes": 0,
+        "inspired_by": 0
+    },
+    {
+        "id": "afeffd11-61f2-49e2-8ff0-be41080593dc",
+        "has_photo": 0,
+        "home_town": 0,
+        "political": 0,
+        "people_main": 0,
+        "life_main": 0,
+        "smoking": 0,
+        "alcohol": 0,
+        "quotes": 0,
+        "inspired_by": 0
+    },
+    {
+        "id": "1a9795f2-ac18-4dff-8575-c99713e2dcff",
+        "has_photo": 1,
+        "home_town": 0,
+        "political": 0,
+        "people_main": 0,
+        "life_main": 0,
+        "smoking": 0,
+        "alcohol": 0,
+        "quotes": 0,
+        "inspired_by": 0
+    },
+    {
+        "id": "1ca9fd2e-2301-47e4-bc2f-f1364d721e70",
+        "has_photo": 1,
+        "home_town": 1,
+        "political": 0,
+        "people_main": 2,
+        "life_main": 1,
+        "smoking": 0,
+        "alcohol": 0,
+        "quotes": 0,
+        "inspired_by": 0
+    },
+    {
+        "id": "956a22be-3846-472c-a769-f3e2e301afde",
+        "has_photo": 1,
+        "home_town": 0,
+        "political": 0,
+        "people_main": 0,
+        "life_main": 0,
+        "smoking": 0,
+        "alcohol": 0,
+        "quotes": 0,
+        "inspired_by": 0
+    },
+    {
+        "id": "09477ecf-a4b9-45bf-9e57-29404f3ed239",
+        "has_photo": 1,
+        "home_town": 0,
+        "political": 0,
+        "people_main": 2,
+        "life_main": 1,
+        "smoking": 0,
+        "alcohol": 0,
+        "quotes": 1,
+        "inspired_by": 0
+    }
+]
