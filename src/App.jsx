@@ -1,7 +1,7 @@
 import './App.css'
 
 import Arthur from './Arthur/Arthur'
-import { Route, Routes } from 'react-router-dom'
+import { Link, Route, Routes } from 'react-router-dom'
 import Milana from './Milana/Milana'
 
 export function data(json, category, accordance) {
@@ -42,9 +42,20 @@ export function data(json, category, accordance) {
 function App() {
 	return (
 		<Routes>
-			<Route path='/AI' element={<>тут нет ничо</>} />
-			<Route path='/AI/Arthur' element={<Arthur />} />
-			<Route path='/AI/Milana' element={<Milana />} />
+			<Route
+				path='/'
+				element={
+					<div>
+						Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officia
+						distinctio voluptates nostrum amet, sequi aut quidem culpa
+						aspernatur ut omnis a quisquam debitis libero aliquam, atque dolore?
+						Ut, deserunt ex!
+						<Link to='/Arthur' />
+					</div>
+				}
+			/>
+			<Route path='/Arthur' element={<Arthur />} />
+			<Route path='/Milana' element={<Milana />} />
 		</Routes>
 	)
 }
